@@ -47,3 +47,15 @@
     sprite: _Umbra/Clothing/Uniforms/Jumpsuit/artificer_uniform.rsi
   - type: Clothing
     sprite: _Umbra/Clothing/Uniforms/Jumpsuit/artificer_uniform.rsi
+
+- type: entity
+  parent: ClothingUniformBase
+  id: ClothingUniformTempestasDress
+  name: Tempestas' maid dress
+  description: A custom tailored maid dress, perfect for cleaning up messes both physically and bureaucratically, smells slightly of alcohol.
+  suffix: PersonalItem
+  components:
+  - type: Sprite
+    sprite: _Umbra/Clothing/Uniforms/Jumpsuit/tempestas_dress.rsi
+  - type: Clothing
+    sprite: _Umbra/Clothing/Uniforms/Jumpsuit/tempestas_dress.rsi
